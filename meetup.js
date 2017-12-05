@@ -10,9 +10,12 @@ function fact(num){
 
 console.log("fact(5) === ", fact(5)); // 120
 
-=============================
-  Exercises
-=============================
+/*
+============================================
+   Exercises
+============================================
+*/
+
 //1. Write a function which takes an integer and returns the sum of the integer.
 //Example: sum(5) // 5 + 4 + 3 + 2 + 1 ==> 15
 
@@ -20,7 +23,7 @@ function sum(num){
   // Your Code Here!!
 }
 
-console.log("sum(5) === ", sum(5)); // 45
+// console.log("sum(5) === ", sum(5)); // 45
 
 
 // 2. Write a function which take 2 numbers (base and exp) and return exponent of a number.
@@ -32,7 +35,7 @@ function exponent(base, exp){
   // Your Code Here!!
 }
 
-console.log("exponent(7) === ", exponent(7)); // 13
+// console.log("exponent(7) === ", exponent(7)); // 13
 
 
 //3. Write a function which takes an integer n greater than or eqaul to 0
@@ -47,4 +50,4 @@ function fib(num){
   // Your Code Here!!
 }
 
-console.log("fib(7) === ", sum(7)); // 13
+// console.log("fib(7) === ", sum(7)); // 13

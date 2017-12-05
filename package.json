@@ -1,0 +1,22 @@
+{
+  "name": "intro-to-recursion",
+  "version": "1.0.0",
+  "description": "For workshop \"Intro to Recursion\"",
+  "main": "meetup.js",
+  "scripts": {
+    "start": "node meetup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryutaudo/intro-to-recursion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryutaudo/intro-to-recursion/issues"
+  },
+  "homepage": "https://github.com/ryutaudo/intro-to-recursion#readme",
+  "dependencies": {
+    "moment": "^2.19.3"
+  }
+}
