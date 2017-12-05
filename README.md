@@ -2,14 +2,13 @@
 For workshop "Intro to Recursion"
 
 ## Setup
-to install moment
+run this code in terminal
 ```shell
-npm init
-npm install moment --save
+npm install
 ```
 
 ## How to run a js file
 run this code in terminal
 ```shell
-node meetup.js
+npm start
 ```
