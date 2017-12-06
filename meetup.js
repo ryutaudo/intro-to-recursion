@@ -1,14 +1,14 @@
 // Sample Code of factorial
 
-function fact(num){
-  if(num === 1){
-    return 1;
-  } else {
-    return num * fact(num-1);
-  } 
-}
+// function fact(num){
+//   if(num === 1){
+//     return 1;
+//   } else {
+//     return num * fact(num-1);
+//   } 
+// }
 
-console.log("fact(5) === ", fact(5)); // 120
+//console.log("fact(5) === ", fact(5)); // 120
 
 /*
 ============================================
@@ -23,7 +23,7 @@ function sum(num){
   // Your Code Here!!
 }
 
-// console.log("sum(5) === ", sum(5)); // 45
+// console.log("sum(5) === ", sum(5)); // 15
 
 
 // 2. Write a function which take 2 numbers (base and exp) and return exponent of a number.
