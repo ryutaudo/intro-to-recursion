@@ -50,7 +50,7 @@ function fib(num){
   // Your Code Here!!
 }
 
-// console.log("fib(7) === ", sum(7)); // 13
+// console.log("fib(7) === ", fib(7)); // 13
 
 
 // 4. Write a merge sort function which takes an array of numbers
